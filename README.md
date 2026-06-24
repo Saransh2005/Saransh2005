@@ -1,18 +1,150 @@
-# 💫 About Me:
-👋 Hi, I'm Saransh Singh<br><br>🎓 B.Tech Computer Science student passionate about Software Development and Data Science<br><br>🔭 Currently building Android & Full Stack applications<br><br>🌱 Learning DSA, MERN Stack, Machine Learning and Cloud Technologies<br><br>💻 Skilled in C++, Java, Python, Kotlin, JavaScript, React, Node.js and SQL<br><br>🚀 Interested in Software Engineering, AI and Open Source Contribution<br><br>📫 Always open to learning and collaboration
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Saransh2005/Saransh2005/main/assets/movie.gif" width="100%" alt="Intro Animation"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saransh_singh8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranshchaudhary888@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D2818,100:00FF41&height=220&section=header&text=SARANSH.exe&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Initializing%20Developer%20Protocol...&descAlignY=58&descSize=18&descColor=39FF14" width="100%"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Saransh2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Saransh2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saransh2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=700&height=50&lines=%3E+SYSTEM+ONLINE...;%3E+IDENTITY%3A+SARANSH+SINGH;%3E+ROLE%3A+B.Tech+CS+Student;%3E+SKILLS%3A+Full+Stack+%7C+Data+Science;%3E+STATUS%3A+Always+Learning..." alt="Typing SVG" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=Saransh2005&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=Saransh2005&style=for-the-badge&color=00ff41&label=PROFILE+SCANS" alt="Profile views"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br>
+
+```ansi
+[0;32m┌─[ system_log.txt ]──────────────────────────────────────────────┐
+│ > whoami                                                          │
+│ Saransh Singh — B.Tech Computer Science Student                  │
+│ > status                                                          │
+│ Building Android & Full Stack applications                       │
+│ Learning DSA, MERN Stack, Machine Learning, Cloud Tech            │
+│ > directive                                                       │
+│ "The best way to predict the future is to compile it."           │
+└────────────────────────────────────────────────────────────────────┘[0m
+```
+
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 📡 `> about_me.dat`
+
+```yaml
+name: Saransh Singh
+role: B.Tech CS Student
+focus: [Software Dev, Data Science]
+building: [Android, Full Stack Apps]
+learning: [DSA, MERN, ML, Cloud]
+status: Open to learning & collaboration
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🛰️ `> transmission_channels`
+
+<a href="https://instagram.com/saransh_singh8" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000"/>
+</a>
+<br><br>
+<a href="mailto:saranshchaudhary888@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 💾 `> tech_stack.sys`
+
+**LANGUAGES**
+
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/KOTLIN-000000?style=for-the-badge&logo=kotlin&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41"/>
+
+**FRAMEWORKS // LIBRARIES**
+
+<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/SCIPY-000000?style=for-the-badge&logo=scipy&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41"/>
+
+**DATABASES // CLOUD // DEPLOY**
+
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-000000?style=for-the-badge&logo=google-cloud&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/RENDER-000000?style=for-the-badge&logo=render&logoColor=00FF41"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF41&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+### 📊 `> stats_terminal.exe`
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Saransh2005&theme=matrix&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Saransh2005&theme=matrix&hide_border=true&bg_color=00000000&layout=compact"/>
+
+<img src="https://streak-stats.demolab.com/?user=Saransh2005&theme=matrix&hide_border=true&background=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🏆 `> achievements.log`
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saransh2005&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🐍 `> contribution_feed.live`
+
+<img src="https://raw.githubusercontent.com/Saransh2005/Saransh2005/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ Snake animation requires a one-time GitHub Actions setup — see notes below</sub>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF41&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+```ansi
+[0;32m> END OF TRANSMISSION
+> "Code is the closest thing we have to magic." — keep building.[0m
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:0D2818,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
